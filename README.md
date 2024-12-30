@@ -21,5 +21,5 @@ This script tests how memory swapping works between RAM and swap space on a Linu
 - **psutil** library. Install with:
 
   ```bash
-  pip install psutil# swap-test
-Python program to test swap memory
+  pip install psutil
+  ```
