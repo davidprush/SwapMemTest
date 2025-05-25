@@ -1,4 +1,4 @@
-# Memory Swap Test Script for Linux
+# Swap Memory Test Script for Linux
 
 This script tests how memory swapping works between RAM and swap space on a Linux system. It attempts to allocate memory beyond the system's physical RAM, forcing the use of swap space. Here's how it works:
 
